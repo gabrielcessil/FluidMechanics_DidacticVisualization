@@ -1,4 +1,4 @@
-# 2D Particle Pathline Simulation in a Velocity Field
+# 2D Simulation of Particle's Pathline in a Velocity Field 
 
 This repository contains a Python-based simulation platform for visualizing **Lagrangian particle pathlines** in a given two-dimensional velocity field. 
 
