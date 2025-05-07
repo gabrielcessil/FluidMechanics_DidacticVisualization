@@ -2,6 +2,12 @@
 
 This repository contains a Python-based simulation platform for visualizing **Lagrangian particle pathlines** in a two-dimensional velocity field. The system computes and animates particle trajectories over time, allowing for qualitative analysis of flow behavior. This tool was developed within the scope of academic studies in fluid mechanics.
 
+
+<p align="center">
+  <img src="examples/square.gif" alt="Example of a square" width="45%" style="margin-right: 5px;" />
+  <img src="examples/circle.gif" alt="Example of a circle" width="45%" />
+</p>
+
 ---
 
 ## Overview
