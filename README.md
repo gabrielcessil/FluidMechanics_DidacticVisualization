@@ -1,6 +1,8 @@
 # 2D Particle Pathline Simulation in a Velocity Field
 
-This repository contains a Python-based simulation platform for visualizing **Lagrangian particle pathlines** in a two-dimensional velocity field. The system computes and animates particle trajectories over time, allowing for qualitative analysis of flow behavior. This tool was developed within the scope of academic studies in fluid mechanics.
+This repository contains a Python-based simulation platform for visualizing **Lagrangian particle pathlines** in a given two-dimensional velocity field. 
+
+The system computes and animates particle trajectories over time, allowing for qualitative analysis of flow behavior. This tool was developed within the scope of academic studies in fluid mechanics.
 
 
 <p align="center">
