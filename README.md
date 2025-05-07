@@ -10,6 +10,10 @@ The system computes and animates particle trajectories over time, allowing for q
   <img src="examples/circle.gif" alt="Example of a circle" width="45%" />
 </p>
 
+<p align="center">
+  <img src="examples/square2.gif" alt="Another example of a square" width="45%" style="margin-right: 5px;" />
+  <img src="examples/circle2.gif" alt="Another example of a circle" width="45%" />
+</p>
 ---
 
 ## Overview
