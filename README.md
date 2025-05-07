@@ -115,3 +115,11 @@ if __name__ == "__main__":
         total_duration_s=8
     )
 ```
+
+### Upcoming features:
+- Divergence theorem visualization
+- Reynolds transport theorem visualization
+- Divergence visualization
+- Rotational visualization
+- Expansion-rate tensor visualization
+- Strain-rate tensor visualization
